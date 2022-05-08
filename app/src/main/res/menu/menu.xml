@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="主页" />
+    <item
+        android:id="@+id/sort"
+        android:icon="@drawable/ic_baseline_sort_24"
+        android:title="分类" />
+    <item
+        android:id="@+id/desk"
+        android:icon="@drawable/ic_baseline_local_library_24"
+        android:title="书桌" />
+    <item
+        android:id="@+id/me"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="我" />
+</menu>

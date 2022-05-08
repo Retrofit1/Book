@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/Novel/app/src/main/res/font/open_sans.xml" value="0.2796875" />
+        <entry key="..\:/AndroidStudioProjects/Novel/app/src/main/res/font/open_sans_light.xml" value="0.13958333333333334" />
+        <entry key="..\:/AndroidStudioProjects/Novel/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/Novel/app/src/main/res/layout/fragment_subjectn.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Novel/app/src/main/res/layout/home_fragment.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Novel/app/src/main/res/layout/item.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Novel/app/src/main/res/xml/network_config.xml" value="0.1" />
+        <entry key="..\:/Users/anlgin/Desktop/Novel(1)/app/src/main/res/layout/item.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/anlgin/Desktop/Novel(1)/app/src/main/res/layout/itemtoplist.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/anlgin/Desktop/Novel(1)/app/src/main/res/layout/list_row_group.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/anlgin/Desktop/Novel(1)/app/src/main/res/layout/list_row_member.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/anlgin/Desktop/Novel(1)/app/src/main/res/layout/sort_fragment.xml" value="0.21829710144927536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
