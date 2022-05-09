@@ -1,4 +1,7 @@
 package com.example.novel.adapter;
+/**
+ *
+ */
 
 import android.view.LayoutInflater;
 import android.view.View;
