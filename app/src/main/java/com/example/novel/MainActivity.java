@@ -18,7 +18,9 @@ import com.example.novel.tabs.FollwFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.tabs.TabLayout;
 
-
+/**
+ * 主界面
+ */
 
 public class MainActivity extends AppCompatActivity {
 
