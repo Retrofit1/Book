@@ -35,7 +35,10 @@ public class MainActivity extends AppCompatActivity {
 
         bottomNavigationView=findViewById(R.id.bottomNav);
 
-        //有待改进
+        /**
+         * 该页面跳转会出现黑屏
+         * 还需要更改
+         */
         id=getIntent().getIntExtra("id",0);
         if(id==1){
             getSupportFragmentManager().beginTransaction().add(R.layout.activity_all_category,follwFragment).show(follwFragment).commit();
